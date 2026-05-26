@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = 8243850753:AAEO3qma1C7-WscpYNg0fCSoJJVClGRRpgU  
+TOKEN = "8243850753:AAEO3qma1C7-WscpYNg0fCSoJJVClGRRpgU" 
 
 keyboard = [
     ["📦 Заказать", "📋 Меню"],
